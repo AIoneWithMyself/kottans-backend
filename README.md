@@ -29,4 +29,4 @@ I think it's because this commands for Linux and I am using Windows, so i tried 
 
 <img src="https://sun9-46.userapi.com/c850736/v850736931/1ee3d7/jafrIbE_Be4.jpg">
 
-About lesson: It was very interesing to figure out how Internet works and what problems i could face and solve them as future web developer.
+About lesson: It was very interesing to figure out how Internet works and what problems i could face and solve them as future web developer. However, practice part i didnt :( .
