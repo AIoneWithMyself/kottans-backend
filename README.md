@@ -25,3 +25,8 @@ About lesson: I've done theoretical part of this lesson, but practical was to di
 First, `ps -a`, `/proc/<PID>/maps` did not work. Basing on material I googled,
 I think it's because this commands for Linux and I am using Windows, so i tried to do everything i could.
 
+## TCP. UDP. Network
+
+<img src="https://sun9-46.userapi.com/c850736/v850736931/1ee3d7/jafrIbE_Be4.jpg">
+
+About lesson: It was very interesing to figure out how Internet works and what problems i could face and solve them as future web developer.
