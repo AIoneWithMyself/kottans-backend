@@ -1,1 +1,1 @@
-<img src="https://sun9-62.userapi.com/c855416/v855416141/11c495/Vc7A1xmyE8U.jpg">
+<img src="https://sun9-46.userapi.com/c850736/v850736931/1ee3d7/jafrIbE_Be4.jpg">
