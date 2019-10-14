@@ -29,7 +29,7 @@ I think it's because this commands for Linux and I am using Windows, so i tried 
 
 <img src="https://sun9-46.userapi.com/c850736/v850736931/1ee3d7/jafrIbE_Be4.jpg">
 
-About lesson: It was very interesing to figure out how Internet works and what problems i could face and solve them as future web developer. However, practice part i didnt :( .
+About lesson: It was very interesting to figure out how Internet works and what problems i could face and solve them as future web developer. However, practice part i didnt :( .
 
 ## Http & Https
 <img src="https://sun9-34.userapi.com/c850732/v850732340/1eac21/-jNBiT-cHjk.jpg">
@@ -45,17 +45,31 @@ Q: Name at least three possible negative consequences of not using https
    
 Q: Explain the main idea behind public key cryptography in few sentences    
   
-  Public key cryptography need for safety transport messages in Internet. There is symmetry and asymmetry key. In case of symmetry key message will encrypt by key and will be decrypt by same way. Assymetric key its when message was encrypted by one key and decrypted by another.  
+  Public key  need for safety connection between client and server.  
+  At first time server tells a client witch public key belong to it and client store the information for given period of time. 
+  Next time client visits a server, he expects at least 1 certificate in certificate chain to contain a public key already known.
 
 
 Q: You are creating and application for pet clinic. You need to implement the following functionality:
    1. add new pet (including name, age, breed, owner's name, medical history)
+        * Post = request type
+        * name, age, id, breed, owner's name, medical history = query params
    2. search pet by name  
- 3. change name of an existing pet  
- 4. add new info about pet's health  
- 5. assign a pet to a particular doctor in the clinic  
- 6. register an appointment for a pet. This request should include info about pet, doctor and appointment date and time.  
- 
-   
-A: -
+        * Get = request type
+        * name = query params
+   3. change name of an existing pet 
+        * Change = request type
+        * name, id = query  params
+   4. add new info about pet's health  
+        * Change = request type
+        * name, medical history = query params
+   5. assign a pet to a particular doctor in the clinic 
+        * Change = request type
+        * name, id, doctor = query params
+   6. register an appointment for a pet. This request should include info about pet, doctor and appointment date and time.  
+        * Post = request type
+        * name, id, doctor, date, time = query params
+
+Every function has to be request type since we are appealing to server for add, change or search something.  
+To work with function we need a query params.
 
