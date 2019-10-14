@@ -39,7 +39,7 @@ About lesson: It was very interesting to figure out how Internet works and what 
 
 Q: Name at least three possible negative consequences of not using https
    1. Losing private data.  
-   2. Out site could be blocked by webbrowser.  
+   2. Our site could be blocked by webbrowser.  
    3. Possible losing of costumers.  
    
    
