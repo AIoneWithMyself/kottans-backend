@@ -38,7 +38,7 @@ About lesson: It was very interesing to figure out how Internet works and what p
 <img src="https://sun9-21.userapi.com/c851132/v851132292/1dfc14/_AlQM_0YgKo.jpg">
 
 Q: Name at least three possible negative consequences of not using https  
-A: 1. Losing private data.
+A: 1. Losing private data.  
    2. Out site could be blocked by webbrowser.
    3. Possible losing of costumers.
 Q: Explain the main idea behind public key cryptography in few sentences  
