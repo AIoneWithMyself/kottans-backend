@@ -73,3 +73,9 @@ Q: You are creating and application for pet clinic. You need to implement the fo
 Every function has to be request type since we are appealing to server for add, change or search something.  
 To work with function we need a query params.
 
+## Data Structures
+
+<img src="https://sun9-45.userapi.com/c855724/v855724746/1228c6/t-jg-nxv2bk.jpg">
+
+P.S. It was easy so I have much doubts about correction of this program :)
+
