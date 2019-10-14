@@ -37,18 +37,25 @@ About lesson: It was very interesing to figure out how Internet works and what p
 <img src="https://sun9-62.userapi.com/c855636/v855636175/129111/waIGbNdC3x0.jpg">
 <img src="https://sun9-21.userapi.com/c851132/v851132292/1dfc14/_AlQM_0YgKo.jpg">
 
-Q: Name at least three possible negative consequences of not using https  
-A: 1. Losing private data.  
-   2. Out site could be blocked by webbrowser.
-   3. Possible losing of costumers.
-Q: Explain the main idea behind public key cryptography in few sentences  
-A: Public key cryptography need for safety transport messages in Internet. There is symmetry and asymmetry key. In case of symmetry key message will encrypt by key and will be decrypt by same way. Assymetric key its when message was encrypted by one key and decrypted by another. 
+Q: Name at least three possible negative consequences of not using https
+   1. Losing private data.  
+   2. Out site could be blocked by webbrowser.  
+   3. Possible losing of costumers.  
+   
+   
+Q: Explain the main idea behind public key cryptography in few sentences    
+  
+  Public key cryptography need for safety transport messages in Internet. There is symmetry and asymmetry key. In case of symmetry key message will encrypt by key and will be decrypt by same way. Assymetric key its when message was encrypted by one key and decrypted by another.  
+
+
 Q: You are creating and application for pet clinic. You need to implement the following functionality:
- 1. add new pet (including name, age, breed, owner's name, medical history)
- 2. search pet by name
- 3. change name of an existing pet
- 4. add new info about pet's health
- 5. assign a pet to a particular doctor in the clinic
- 6. register an appointment for a pet. This request should include info about pet, doctor and appointment date and time.
+   1. add new pet (including name, age, breed, owner's name, medical history)
+   2. search pet by name  
+ 3. change name of an existing pet  
+ 4. add new info about pet's health  
+ 5. assign a pet to a particular doctor in the clinic  
+ 6. register an appointment for a pet. This request should include info about pet, doctor and appointment date and time.  
+ 
+   
 A: -
 
